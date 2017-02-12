@@ -5,9 +5,8 @@
 ## Using Azure Functions to Build Nanoservices
   1. https://mva.microsoft.com/en-US/training-courses/16765
 
-## Prerequisites on Windows 
-  1. Install https://www.python.org/downloads/release/python-352/
-  2. Install Azure CLI 2.0 using pip install azure-cli
-  3. Run az
-  4. az login
-
+## ASP.NET Core on Visual Studio Code 
+  1. From https://www.microsoft.com/net/core#windowscmd or directly download .NET Core SDK https://go.microsoft.com/fwlink/?LinkID=835014 
+  2. npm install -g yo generator-aspnet bower
+  3. yo aspnet
+  4. Download https://code.visualstudio.com/
