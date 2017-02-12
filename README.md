@@ -1,6 +1,7 @@
 ## Build Azure App Service Architecture
   1. http://video.ch9.ms/sessions/build/2015/2-628.pptx
   2. https://mva.microsoft.com/en-US/training-courses/16828
+
 ## Using Azure Functions to Build Nanoservices
   1. https://mva.microsoft.com/en-US/training-courses/16765
 
