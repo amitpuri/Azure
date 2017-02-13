@@ -9,6 +9,8 @@
 ## Introducing Microsoft Azure
   1. https://docs.microsoft.com/en-us/azure/fundamentals-introduction-to-azure
 
+## Containerized Docker Application Lifecycle with Microsoft Platform and Tools 
+  1. http://aka.ms/dockerlifecycleebook
 ## Build Azure App Service Architecture
   1. http://video.ch9.ms/sessions/build/2015/2-628.pptx
   2. https://mva.microsoft.com/en-US/training-courses/16828
@@ -22,5 +24,5 @@
 
 ## Demo projects
   1. Job Creator demo: https://github.com/vturecek/job-units-demo
-  2. Cluster Visualizer: https://github.com/vturecek/service-fabric-xray
+  2. Cluster Visualizer: https://github.com/vturecek/service-fabric-xray
 
