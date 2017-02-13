@@ -5,6 +5,10 @@
   4. Download https://code.visualstudio.com/
 
 ## References
+
+## Introducing Microsoft Azure
+  1. https://docs.microsoft.com/en-us/azure/fundamentals-introduction-to-azure
+
 ## Build Azure App Service Architecture
   1. http://video.ch9.ms/sessions/build/2015/2-628.pptx
   2. https://mva.microsoft.com/en-US/training-courses/16828
