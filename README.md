@@ -11,3 +11,11 @@
 
 ## Using Azure Functions to Build Nanoservices
   1. https://mva.microsoft.com/en-US/training-courses/16765
+## Microsoft Virtual Academy training videos 
+  1. http://bit.do/MicroservicesIntro
+  2. http://bit.do/MicroservicesViaSF
+
+## Demo projects
+  1. Job Creator demo: https://github.com/vturecek/job-units-demo
+  2. Cluster Visualizer: https://github.com/vturecek/service-fabric-xray
+
