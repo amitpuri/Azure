@@ -1,9 +1,3 @@
-## ASP.NET Core on Visual Studio Code 
-  1. From https://www.microsoft.com/net/core#windowscmd or directly download .NET Core SDK https://go.microsoft.com/fwlink/?LinkID=835014 
-  2. npm install -g yo generator-aspnet bower
-  3. yo aspnet
-  4. Download https://code.visualstudio.com/
-
 ## References
 
 ## Introducing Microsoft Azure
@@ -27,3 +21,8 @@
   1. Job Creator demo: https://github.com/vturecek/job-units-demo
   2. Cluster Visualizer: https://github.com/vturecek/service-fabric-xray
 
+## ASP.NET Core on Visual Studio Code 
+  1. From https://www.microsoft.com/net/core#windowscmd or directly download .NET Core SDK https://go.microsoft.com/fwlink/?LinkID=835014 
+  2. npm install -g yo generator-aspnet bower
+  3. yo aspnet
+  4. Download https://code.visualstudio.com/
