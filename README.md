@@ -27,3 +27,6 @@
   2. npm install -g yo generator-aspnet bower
   3. yo aspnet
   4. Download https://code.visualstudio.com/
+  
+## Azure Guidance for AWS Professionals
+  1. https://docs.microsoft.com/en-in/azure/guidance/guidance-azure-for-aws-professionals-service-map
