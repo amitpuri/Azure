@@ -29,4 +29,7 @@
   4. Download https://code.visualstudio.com/
   
 ## Azure Guidance for AWS Professionals
+  1. https://docs.microsoft.com/en-in/azure/guidance/azure-for-aws-professionals
+ 
+## Azure vs AWS service map
   1. https://docs.microsoft.com/en-in/azure/guidance/guidance-azure-for-aws-professionals-service-map
