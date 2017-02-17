@@ -18,6 +18,9 @@
   1. http://bit.do/MicroservicesIntro
   2. http://bit.do/MicroservicesViaSF
   3. https://aka.ms/servicefabricvideo
+  4. Introduce yourself to the new Azure Container Service https://www.youtube.com/watch?v=qqrxmbMn3Z8
+  5. Dive deep into Azure Container Service https://www.youtube.com/watch?v=5JEfKSmlSj0
+  5. Mesosphere and Azure Container Service https://www.youtube.com/watch?v=8tiY7mjP1tM 
 
 ## Demo projects
   1. Job Creator demo: https://github.com/vturecek/job-units-demo
