@@ -17,6 +17,7 @@
 ## Microsoft Virtual Academy training videos 
   1. http://bit.do/MicroservicesIntro
   2. http://bit.do/MicroservicesViaSF
+  3. https://aka.ms/servicefabricvideo
 
 ## Demo projects
   1. Job Creator demo: https://github.com/vturecek/job-units-demo
