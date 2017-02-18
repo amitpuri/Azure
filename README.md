@@ -3,6 +3,7 @@
 ## Introducing Microsoft Azure
   1. https://docs.microsoft.com/en-us/azure/fundamentals-introduction-to-azure
   2. https://azure.microsoft.com/en-us/resources/infographics/azure/
+  3. Get started guide for Azure developers https://docsmsftpdfs.blob.core.windows.net/guides/azure/azure-developer-guide.pdf 
 
 ## Containerized Docker Application Lifecycle with Microsoft Platform and Tools 
   1. http://aka.ms/dockerlifecycleebook
