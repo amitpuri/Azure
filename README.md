@@ -22,7 +22,8 @@
   4. Introduce yourself to the new Azure Container Service https://www.youtube.com/watch?v=qqrxmbMn3Z8
   5. Dive deep into Azure Container Service https://www.youtube.com/watch?v=5JEfKSmlSj0
   6. Mesosphere and Azure Container Service https://www.youtube.com/watch?v=8tiY7mjP1tM 
-  7. Exploring Cloud Application Security https://mva.microsoft.com/en-US/training-courses/exploring-cloud-application-security-17038
+  7. Bringing Kubernetes Support to Azure Container Service http://blog.kubernetes.io/2016/11/bringing-kubernetes-support-to-azure.html
+  8. Exploring Cloud Application Security https://mva.microsoft.com/en-US/training-courses/exploring-cloud-application-security-17038
 
 ## Demo projects
   1. Job Creator demo: https://github.com/vturecek/job-units-demo
