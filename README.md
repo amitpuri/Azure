@@ -40,3 +40,5 @@
  
 ## Azure vs AWS service map
   1. https://docs.microsoft.com/en-in/azure/guidance/guidance-azure-for-aws-professionals-service-map
+## Microsoft REST API Guidelines
+  1. https://github.com/Microsoft/api-guidelines
